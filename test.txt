@@ -2,4 +2,3 @@ Hello git!
 This is my first Git program.
 I am learning version control.
 This is my second version
-This is a satged experiment.
