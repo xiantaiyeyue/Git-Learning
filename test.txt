@@ -1,5 +1,5 @@
 Hello git!
 This is my first Git program.
 I am learning version control.
-This is my second version
+This is verson A from conflict-test.
 THis line is only in fearture-test.
