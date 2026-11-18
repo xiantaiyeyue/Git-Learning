@@ -4,3 +4,4 @@ I am learning version control.
 This is version B from master.
 This is verson A from conflict-test.
 THis line is only in fearture-test.
+This line is for Github sync practice.
